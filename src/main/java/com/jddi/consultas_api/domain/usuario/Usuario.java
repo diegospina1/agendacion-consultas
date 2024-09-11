@@ -1,4 +1,4 @@
-package com.jddi.consultas_api.model;
+package com.jddi.consultas_api.domain.usuario;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
